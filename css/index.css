@@ -4,3 +4,4 @@ git commit -m "noi dung chinh sua"
 git push */
 /* git clone + cai source lay ve */
 /* git pull: keo code moi ve, git push day code len, git clone lay source tren gitbub ve,  */
+/* sau khi merger tren hub thi ve may vao master= git checkout master roi git pull keo ve, keo xong co the xoa bang cach :git branch -D "ten nhanh" */
